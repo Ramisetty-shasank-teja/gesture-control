@@ -1,6 +1,6 @@
 # 🖐️ Gesture-Controlled Human-Computer Interface
 
-A contactless gesture recognition system built with computer vision to enable intuitive control of video playback and virtual mouse interaction using just a standard webcam. 
+A contactless gesture recognition system built with computer vision to enable intuitive control of video playback and virtual mouse interaction using just a standard webcam.  
 
 ---
 
